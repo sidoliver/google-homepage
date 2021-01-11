@@ -121,3 +121,23 @@
 .lan-link:hover {
     border-bottom: 1px solid rgb(27, 125, 238);
 }
+/* first footer */
+.footer-1 {
+    margin-top: 95px;
+    
+    border:1px solid #0c0b0b3d;
+    border-bottom: none;
+}
+.footer-1 li{
+    list-style: none;
+    display: inline-block; 
+    width: 100%;
+    padding: 11px 0 11px 0;
+    background-color: #F2F2F2;
+}
+.footer-1 li a {
+text-decoration: none;
+font-size: 13px;
+color: #70757a;
+margin-left: 14px;
+}
