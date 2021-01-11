@@ -2,7 +2,7 @@
 
 ## I have created the google.com homepage using HTML and CSS.
 
-### Through out this project I have faced some challenges as I was not clear about some concept.Those are:
+### Throughout this project I have faced some challenges as I was not clear about some concept.Those are:
 1. How to use flex-box to align items vertically and horizontally.
 2. How to create a nav bar and align them horizontally.
 3. How to align items using css position property.
