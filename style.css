@@ -28,3 +28,28 @@
       border-bottom: 1px solid rgb(32, 32, 32);
   }
    /* nav bar links */
+   signin {
+    background-color: #4285f4;
+    padding: 8px 13px;
+    border-radius: 3px;
+    font-size: 13px;
+    font-weight: 600;
+    border:none;
+    color: #fff;
+}
+.signin:focus { 
+    outline: none; 
+}
+.signin:hover {
+    background-color: #2571ec;
+}
+.four-dot {
+    width: 20px;
+    margin-top: 2px;
+}
+.navbar li a {
+    
+    
+    text-decoration: none;
+   
+} 
