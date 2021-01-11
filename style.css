@@ -141,3 +141,37 @@ font-size: 13px;
 color: #70757a;
 margin-left: 14px;
 }
+/* last footer*/
+
+footer{
+    display: flex;
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    background-color:#F2F2F2;
+    overflow: auto;
+    height: auto;
+    border: 1px solid #0c0b0b0a;
+ }
+ .left-links{
+    flex:1 1 200px;
+ }
+ .right-links {
+     margin-right: 30px;
+ }
+ .links {
+    display: inline-block;
+    text-align: center;
+    padding: 11px 10px;
+    color: #70757a;
+    text-decoration: none;
+    font-size: 13px;
+    
+ }
+ .links:hover {
+    border-bottom: 2px solid purple;
+ }
+ .selected{
+    border-bottom: 2px solid purple;
+ }
+ 
