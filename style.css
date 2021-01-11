@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+  }
+     /* nav bar */
+  
+  .navbar {
+      background-color: #fff;
+      height: 40px; 
+      margin-top: 15px;
+       
+  } 
+  
+  .navbar li  {
+      list-style: none;
+      display: inline-block; 
+      position: relative;
+      left: 1120px;
+      padding: 10px 5px; 
+      vertical-align: middle;
+      font-size: 13px;
+  }
+  .navbar li a {
+      color: #000;
+  }
+  .navbar li a:hover {
+      border-bottom: 1px solid rgb(32, 32, 32);
+  }
+   /* nav bar links */
