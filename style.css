@@ -105,3 +105,19 @@
 .search-button:hover {
     border: 1px solid #0c0b0b3d;
 }
+/* language paragraph */
+.language {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    font-size: 12px;
+    margin-left: 450px;
+}
+.lan-link {
+      margin-left: 8px;
+      margin-top: 20px;
+      text-decoration: none;
+}
+.lan-link:hover {
+    border-bottom: 1px solid rgb(27, 125, 238);
+}
